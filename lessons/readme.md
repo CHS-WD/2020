@@ -14,4 +14,4 @@
 
 7. CSS Grid
 
-8. [Responsive Web Design Projects](/8)
+8. [Responsive Web Design Projects](8/)
