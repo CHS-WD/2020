@@ -18,8 +18,6 @@ For example:
 
 Becomes:
 
-***
-
 <h1>Top level heading: Maybe a page title</h1>
 
 <p>A paragraph of text. Some information we would like to communicate to the viewer. This can be as long or short as we would like.</p>
@@ -29,8 +27,6 @@ Becomes:
   <li>Number two</li>
   <li>A third item</li>
 </ol>
-
-***
 
 The HyperText part of HTML comes from the early days of the web and its original use case. Pages usually contained static documents that contained references to other documents. These references contained hypertext links used by the browser to navigate to the reference document so the user could read the reference document without having to manually search for it.
 
