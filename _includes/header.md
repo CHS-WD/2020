@@ -1,6 +1,5 @@
 # [CHS-WD]({{ "/" | relative_url }})
 
-Web Development w/ HTML & CSS
+Web Development
 
 Clayton High School
-2019–2020
